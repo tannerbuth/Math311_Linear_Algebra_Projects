@@ -2,7 +2,7 @@
 
 These are python projects for implementing Linear Algebra ideas.
 
-#Projects:
+# Projects:
 
 1. Solve systems using Colab and Python
 
