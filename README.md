@@ -8,3 +8,6 @@ These are python projects for implementing Linear Algebra ideas.
 
 Using Google Co-Laboratory to introduce the idea of solving system of equation with code.
 File Goes Here
+
+2. Lunch at the Ski Hill Project
+https://github.com/tannerbuth/Math311_Linear_Algebra_Projects/blob/main/Copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
