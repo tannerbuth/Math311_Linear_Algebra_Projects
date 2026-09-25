@@ -10,4 +10,7 @@ Using Google Co-Laboratory to introduce the idea of solving system of equation w
 File Goes Here
 
 2. Lunch at the Ski Hill Project
+
+This is a short description of the project....   
+   
 https://github.com/tannerbuth/Math311_Linear_Algebra_Projects/blob/main/Copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
